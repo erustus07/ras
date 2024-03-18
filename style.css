@@ -1,0 +1,33 @@
+body{
+    color: rgb(221, 97, 75);
+}
+
+.second{
+    font-size: x-large;
+}
+.search{
+    width: 500px;px ;
+    margin-top: auto;
+
+    float:none;
+}
+.srch{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: x-large;
+    width: 200px;
+    background-color:aqua;
+}
+.button{
+    background: transparent;
+    font-size: xx-large;
+}
+.about1{
+    color: aqua;
+}
+.third{
+    color: rgb(99, 240, 233);
+
+}
+.services{
+    color: aqua;
+}
